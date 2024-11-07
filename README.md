@@ -1,6 +1,6 @@
 # Disneyplus.com/begin
 
-
+![Disneyplus.com/begin](activate now.jpg)
 
 Disney plus is most popular online streaming platform, which offers movies and TV shows in about 9 languages. It also covers each sports live, providing whole content at high quality and better experience. Disneyplus.com/begin is way to access Disney plus for OTT consumers on their devices. Go through the below highlights of following guide-
 
