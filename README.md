@@ -16,32 +16,32 @@ The 8-digit code is for Disney plus activation on different devices. It verifies
 
 ## How to sign-up using disneyplus.com/begin?
 
-1.Through web browser head on to ‘disneyplus.com/begin‘.
-2.Here, click “Sign Up” option.
-3.Select a subscription plan.
-4.Put in required details, email and password.
-5.Follow on-screen instructions.
-6.Confirm your payment of Disney+ subscription, lastly.
+1. Through web browser head on to ‘disneyplus.com/begin‘.
+2. Here, click “Sign Up” option.
+3. Select a subscription plan.
+4. Put in required details, email and password.
+5. Follow on-screen instructions.
+6. Confirm your payment of Disney+ subscription, lastly.
 
 ## How to start Disney plus on Android TV using the code?
 
-1.Download & Install the Disney plus App from Play Store.
-2.Launch the app, now.
-3.Then, click ‘Log In’.
-4.An 8-digit code appears on the TV screen.
-5.Then, head on to ‘disneyplus.com/begin‘ via web browser on other device.
-6.Now, sign-in with the same account you did on TV.
-7.Enter the code, appeared on TV
-8.Nextly, select ‘Activate’.
-9.Now, Disney plus is all set to run on your TV.
+1. Download & Install the Disney plus App from Play Store.
+2. Launch the app, now.
+3. Then, click ‘Log In’.
+4. An 8-digit code appears on the TV screen.
+5. Then, head on to ‘disneyplus.com/begin‘ via web browser on other device.
+6. Now, sign-in with the same account you did on TV.
+7. Enter the code, appeared on TV
+8. Nextly, select ‘Activate’.
+9. Now, Disney plus is all set to run on your TV.
 
 
 ## What if I forget Disney Plus account password?
 
 If you forget your Disney Plus account password, then reset a new one via Disneyplus.com/begin. Follow the steps-
 
-1.Type Disneyplus.com/begin on search bar of web browser.
-2.Then, click ‘Login’ & enter email address.
-3.Select “Continue” then click “Forget password”.
-4.A 6-digit passcode is sent to your email address.
-5.Then, put in the code and reset your password.
+1. Type Disneyplus.com/begin on search bar of web browser.
+2. Then, click ‘Login’ & enter email address.
+3. Select “Continue” then click “Forget password”.
+4. A 6-digit passcode is sent to your email address.
+5. Then, put in the code and reset your password.
